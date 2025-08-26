@@ -1,0 +1,5 @@
+django
+djangorestframework
+django-cors-headers  # Enables CORS so React can access your API
+djangorestframework-simplejwt
+Pillow
